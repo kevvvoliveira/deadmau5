@@ -57,3 +57,29 @@ digital version:
 - 8: "Apply Overnight" (5:11)
 - 9: "TL7" (4:27)
 - 10: "Trepid" (7:07)
+
+# Random Album Title (2008)
+
+US version:
+- 1: "Sometimes Things Get, Whatever" (8:19)
+- 2: "Complications" (9:51)
+- 3: "Slip" (7:43)
+- 4: "Some Kind of Blue" (8:00)
+- 5: "Brazil (2nd Edit)" (6:35)
+- 6: "Alone With You" (8:11)
+- 7: "I Remember" (9:52)
+- 8: "Faxing Berlin" (8:37)
+- 9: "Not Exactly" (9:17)
+- 10: "So There I Was" (6:45)
+
+UK version:
+- 1: "Sometimes Things Get, Whatever" (8:19)
+- 2: "Complications" (9:51)
+- 3: "Slip" (7:43)
+- 4: "Some Kind of Blue" (8:00)
+- 5: "Brazil (2nd Edit)" (6:35)
+- 6: "Alone With You" (8:11)
+- 7: "I Remember" (9:52)
+- 8: "Not Exactly" (9:17)
+- 9: "Arguru" (7:11)
+- 10: "So There I Was" (6:45)
