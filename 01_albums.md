@@ -83,3 +83,21 @@ UK version:
 - 8: "Not Exactly" (9:17)
 - 9: "Arguru" (7:11)
 - 10: "So There I Was" (6:45)
+
+# For Lack of a Better Name (2009)
+- 1 : "FML" (7:00)
+- 2: "Moar Ghosts 'N' Stuff" (4:57)
+- 3: "Ghosts 'N' Stuff (feat. Rob Swire)" (5:28)
+- 4: "Hi Friend! (feat. MC Flipside)" (6:32)
+- 5: "Bot" (6:33)
+- 6: "Word Problems" (8:29)
+- 7: "Soma" (7:53)
+- 8: "Lack of a Better Name" (8:14)
+- 9: "The 16th Hour" (9:52)
+- 10: "Strobe" (10:33)
+
+Amazon bonus track:
+- "Ghosts 'N' Stuff" (Sub Focus Remix) (4:26)
+
+iTunes bonus track:
+- "Ghosts 'N' Stuff" (Nero Remix) (6:55)
