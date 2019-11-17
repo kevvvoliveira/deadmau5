@@ -44,3 +44,16 @@ digital version:
 - 13: "Satisfaction" (4:35)
 - 14: "Soetimes I Fail" (3:39)
 - 15: "Careless (Acoustic)" (4:58)
+
+# Vexillology (2006)
+
+- 1: "1981" (6:45)
+- 2: "Bounce" (5:37)
+- 3: "Dr. Funkenstein" (7:13)
+- 4: "Fustercluck" (4:52)
+- 5: "Lai" (7:35)
+- 6: "Orca" (8:30)
+- 7: "Plus" (7:30)
+- 8: "Apply Overnight" (5:11)
+- 9: "TL7" (4:27)
+- 10: "Trepid" (7:07)
