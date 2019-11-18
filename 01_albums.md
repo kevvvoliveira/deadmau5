@@ -147,3 +147,37 @@ Australian extra disc:
 
 Spotify bonus track:
 - "Creep" (6:17)
+
+# while(1<2) (2014)
+
+disc 1:
+- 1: "Avaritia" (6:42)
+- 2: "Coelacanth I" (2:46)
+- 3: How To Destroy Angels - "Ice Age" (deadmau5 Remix) (6:51)
+- 4: "My Pet Coelacanth" (8:15)
+- 5: "Infra Turbo Pigcart Racer" (9:36)
+- 6: "Terrors in My Head" (8:37)
+- 7: "Creep" (5:37)
+- 8: "Somewhere Up Here" (5:10)
+- 9: "Phantoms Can't Hang" (9:15)
+- 10: "Gula" (6:56)
+
+disc 2:
+- 1: "Acedia" (6:25)
+- 2: "Invidia" (3:16)
+- 3: "Errors in My Bread" (5:17)
+- 4: Nine Inch Nails - "Survivalism" (deadmau5 Remix) (3:37)
+- 5: "Silent Picture" (3:38)
+- 6: "Rlyehs Lament" (4:48)
+- 7: "Superbia" (2:14)
+- 8: "Mercedes" (9:38)
+- 9: "Bleed" (4:00)
+- 10: "Ira" (2:38)
+- 11: "Monday" (3:45)
+- 12: "A Moment to Myself" (3:28)
+- 13: "Pets" (7:31)
+- 14: "Coelacanth II" (2:36)
+- 15: "Seeya (feat. Colleen D'Agostino" (6:40)
+
+bonus track (Best Buy version):
+- 16: "Petting Zoo" (7:31)
