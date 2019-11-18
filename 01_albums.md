@@ -117,7 +117,7 @@ iTunes bonus track:
 - 10: "One Trick Pony (feat. SOFI)" (3:36)
 - 11: "Everything Before" (6:06)
 
-# > album title goes here <
+# > album title goes here < (2012)
 
 - 1: "Superliminal" (6:33)
 - 2: "Channel 42 (with Wolfgang Gartner" (4:51)
