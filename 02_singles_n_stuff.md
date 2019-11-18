@@ -2,11 +2,6 @@
 
 # Faxing Berlin / Jaded (2007)
 
-vinyl version:
-- 1: "Faxing Berlin" (Chris Lake Edit) (8:13)
-- 2: "Jaded" (8:54)
-
-digital version:
 - 1: "Faxing Berlin" (Original Mix) (8:41)
 - 2: "Faxing Berlin" (Chris Lake Edit) (8:13)
 - 3: "Jaded" (Original Mix) (8:54)
