@@ -85,6 +85,7 @@ UK version:
 - 10: "So There I Was" (6:45)
 
 # For Lack of a Better Name (2009)
+
 - 1 : "FML" (7:00)
 - 2: "Moar Ghosts 'N' Stuff" (4:57)
 - 3: "Ghosts 'N' Stuff (feat. Rob Swire)" (5:28)
@@ -97,7 +98,21 @@ UK version:
 - 10: "Strobe" (10:33)
 
 Amazon bonus track:
-- "Ghosts 'N' Stuff" (Sub Focus Remix) (4:26)
+- "Ghosts 'N' Stuff (feat. Rob Swire)" (Sub Focus Remix) (4:26)
 
 iTunes bonus track:
-- "Ghosts 'N' Stuff" (Nero Remix) (6:55)
+- "Ghosts 'N' Stuff (feat. Rob Swire)" (Nero Remix) (6:55)
+
+# 4x4=12 (2010)
+
+- 1: "Some Chords" (8:04)
+- 2: "Sofi Needs a Ladder (feat. SOFI)" (5:34)
+- 3: "A City In Florida" (5:02)
+- 4: "Bad Selection" (5:01)
+- 5: "Animal Rights (with Wolfgang Gartner)" (5:00)
+- 6: "I Said (with Chris Lake)" (Michael Woods Remix) (5:52)
+- 7: "Cthulhu Sleeps" (9:59)
+- 8: "Right This Second" (7:24)
+- 9: "Raise Your Weapon" (8:16)
+- 10: "One Trick Pony (feat. SOFI)" (3:36)
+- 11: "Everything Before" (6:06)
