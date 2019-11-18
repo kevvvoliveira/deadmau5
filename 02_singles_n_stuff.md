@@ -57,6 +57,16 @@ Songbird 224-0:
 - 2: "Move For Me" (Extended Mix) (6:29)
 - 3: "Move For Me" (Extended Instrumental) (6:29)
 
+# Catbread / Word Problems (2009)
+
+- 1: "Catbread" (8:16)
+- 2: "Word Problems" (8:30)
+
+# Brazil (2nd Edit) / Cat On A Leash
+
+- 1: "Brazil (2nd Edit)" (5:23)
+- 2: "Cat On A Leash" (5:19)
+
 # I Said (with Chris Lake) (2010)
 
 - 1: "I Said" (Original Mix) (7:31)
