@@ -9,4 +9,9 @@
 - 7: "Nyquist" (3:18)
 - 8: "Monophobia (feat. Rob Swire)" (Extended Mix) (10:00)
 
+Beatport bonus tracks:
+- 9: "Monophobia" (Original Mix) (10:30)
+- 10: "Monophobia" (Latroit Extended Dub) (6:31)
+
 # mau5ville: Level 2 (2018)
+
