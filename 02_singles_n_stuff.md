@@ -34,7 +34,7 @@
 # Clockwork (2008)
 
 Songbird 223-0:
-- 1: "Clockwork" (Original Mix)
+- 1: "Clockwork" (Original Mix) (11:12)
 - 2: "Clockwork" (Jonas Steur Ultra Violence Remix) (8:26)
 
 Songbird 224-0:
@@ -83,7 +83,7 @@ extended version:
 - 1: "Beneath With Me" (with Kaskade and Skylar Grey) (Extended Version) (7:33)
 
 Kaskade's V.4:
-- 1: "Beneath With Me" (Kaskade's V.4)
+- 1: "Beneath With Me" (Kaskade's V.4) (4:13)
 
 # Legendary (2017)
 
