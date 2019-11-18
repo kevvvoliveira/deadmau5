@@ -73,4 +73,4 @@ Eric Prydz - "Pjanoo" (deadmau5 WMC Edit)
 - How To Destroy Angels - "Ice Age" (deadmau5 Remix)
 - Nine Inch Nails - "Survivalism" (deadmau5 Remix)
 
-> * was earlier released on his Soundcloud (2012)
+> both were earlier released on his Soundcloud (2012)
