@@ -116,3 +116,34 @@ iTunes bonus track:
 - 9: "Raise Your Weapon" (8:16)
 - 10: "One Trick Pony (feat. SOFI)" (3:36)
 - 11: "Everything Before" (6:06)
+
+# > album title goes here <
+
+- 1: "Superliminal" (6:33)
+- 2: "Channel 42 (with Wolfgang Gartner" (4:51)
+- 3: "The Veldt (feat. Chris James)" (8:41)
+- 4: "Fn Pig" (8:52)
+- 5: "Professional Griefers (feat. Gerard Way)" (4:06)
+- 6: "Maths" (6:54)
+- 7: "There Might Be Coffee" (7:03)
+- 8: "Take Care of The Proper Paperwork" (7:13)
+- 9: "Closer" (7:12)
+- 10: "October" (7:23)
+- 11: "Sleepless" (4:15)
+- 12: "Failbait (feat. Cypress Hill)" (4:51)
+- 13: "Telemiscommunications (feat. Imogen Heap)" (4:07)
+
+iTunes bonus tracks:
+- 14: "Strobe" (Live Version) (4:55)
+- 15: "The Veldt (feat. Chris James)" (Tommy Trash Remix) (6:45)
+- 16: "Professional Griefers (feat. Gerard Way)" (Radio Edit) (3:02)
+
+Australian extra disc:
+- 1: "Professional Griefers" (Instrumental) (6:26)
+- 2: "Professional Griefers (feat. Gerard Way)" (Radio Edit) (3:02)
+- 3: "The Veldt (feat. Chris James)" (Tommy Trash Remix) (6:45)
+- 4: "The Veldt (feat. Chris James)" (Freeform Five Remix) (3:12)
+- 5: "Strobe" (Live Version) (4:55)
+
+Spotify bonus track:
+- "Creep" (6:17)
