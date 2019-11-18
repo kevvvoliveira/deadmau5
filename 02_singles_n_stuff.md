@@ -83,7 +83,8 @@ Songbird 224-0:
 
 # Suckfest9001 (2013)
 
-- 1: "Suckfest9001" (7:04)
+> from "We Are Friends, Vol, 2"
+- "Suckfest9001" (7:04)
 
 # Beneath With Me (2016)
 
@@ -94,6 +95,16 @@ extended version:
 
 Kaskade's V.4:
 - 1: "Beneath With Me" (Kaskade's V.4) (4:13)
+
+# Saved (2016)
+
+> from "We Are Friends, Vol. 5"
+- "Saved" (9:48)
+
+# Polaris (2017)
+
+> from "We Are Friends, Vol. 6"
+- "Polaris" (9:45)
 
 # Legendary (2017)
 
