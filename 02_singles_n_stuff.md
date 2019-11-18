@@ -27,6 +27,10 @@
 - 1: "Ghosts 'N Stuff" (6:12)
 - 2: "Peddler Of Misery" (7:39)
 
+# Bye Friend (2008)
+
+- 1: "Bye Friend" (5:38)
+
 # Clockwork (2008)
 
 Songbird 223-0:
@@ -43,3 +47,49 @@ Songbird 224-0:
 - 1: "The Reward Is More Cheese" (with JELO) (6:10)
 - 2: "Desynchronised" (John Made Remix) (7:04)
 
+# Fifths (2008)
+
+- 1: "Fifths" (6:18)
+
+# Move For Me (with Kaskade) (2008)
+
+- 1: "Move For Me" (Radio Edit) (2:56)
+- 2: "Move For Me" (Extended Mix) (6:29)
+- 3: "Move For Me" (Extended Instrumental) (6:29)
+
+# I Said (with Chris Lake) (2010)
+
+- 1: "I Said" (Original Mix) (7:31)
+- 2: "I Said" (Michael Woods Remix) (7:05)
+- 3: "I Said" (Sergio Fernandez Remix) (7:01)
+
+# HR 8938 Cephei (2011)
+
+- 1: "HR 8938 Cephei" (10:48)
+
+# Aural Psynapse (2011)
+
+- 1: "Aural Psynapse" (7:30)
+
+# Suckfest9001 (2013)
+
+- 1: "Suckfest9001" (7:04)
+
+# Beneath With Me (2016)
+
+- 1: "Beneath With Me" (with Kaskade and Skylar Grey) (4:14)
+
+extended version:
+- 1: "Beneath With Me" (with Kaskade and Skylar Grey) (Extended Version) (7:33)
+
+Kaskade's V.4:
+- 1: "Beneath With Me" (Kaskade's V.4)
+
+# Legendary (2017)
+
+- 1: "Legendary" (with Shotty Horroh) (2:20)
+
+# SATRN (2019)
+
+- 1: "SATRN" (6:55)
+- 2: "SATRN" (Radio Edit) (3:09)
