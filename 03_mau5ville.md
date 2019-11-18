@@ -24,6 +24,14 @@ Beatport bonus tracks:
 - 7: Gallya - "Sunlight" (6:36)
 - 8: Monstergetdown - "Boui" (5:53)
 
+> replaced tracks:
+> - 1: "Drama Free (feat. Lights)" (4:39)
+> - 2: "Drama Free (feat. Lights)" (Chris Lorenzo Remix) (5:35)
+> - 3: "10.8 (with Mr. Bill)" (5:53)
+> - 6: "GG" (Monstergetdown Remix) (6:15)
+> - 7: Gallya - "Sunlight" (4:39)
+> - 8: Monstergetdown - "Boui" (3:11)
+
 removed track:
 - 9 : "Drama Free" (Extended Instrumental Edit) (3:32)
 
