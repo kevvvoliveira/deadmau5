@@ -106,6 +106,11 @@ Kaskade's V.4:
 > from "We Are Friends, Vol. 6"
 - "Polaris" (9:45)
 
+# ebortS (2017)
+
+> from "mau5trap Ten Year Anniversary"
+- "ebortS" (7:55)
+
 # Legendary (2017)
 
 - 1: "Legendary" (with Shotty Horroh) (2:20)
