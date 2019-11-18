@@ -216,3 +216,38 @@ iTunes bonus tracks:
 
 Spotify bonus track:
 - "Raise Your Weapon" (Michael Cassette Remix) (6:02)
+
+# Stuff I Used To Do (2017)
+
+free download version:
+- 1: "Messages from nowhere" (5:00)
+- 2: "Digitol" (3:55)
+- 3: "Screen door" (4:38)
+- 4: "Squid" (1:03)
+- 5: "50 something cats" (2:25)
+- 6: "Charlie can't dance" (2:21)
+- 7: "My opinion" (4:08)
+- 8: "HaxPigMeow" (10:10)
+- 9: "Obsidian" (6:32)
+- 10: "Long walk off a short pier" (3:42)
+- 11: "Support" (4:10)
+- 12: "Superlover" (4:38)
+- 13: "Creep" (Alt. Version) (4:42)
+
+release version:
+- 1: "Messages from nowhere" (5:00)
+- 2: "Digitol" (3:55)
+- 3: "Screen door" (4:38)
+- 4: "Squid" (1:03)
+- 5: "Sometimes i fail" (3:39)
+- 6: "50 something cats" (2:25)
+- 7: "Charlie can't dance" (2:21)
+- 8: "My opinion" (4:08)
+- 9: "HaxPigMeow" (10:10)
+- 10: "Obsidian" (6:32)
+- 11: "Long walk off a short pier" (3:42)
+- 12: "Support" (4:10)
+- 13: "Superlover" (4:38)
+- 14: "Try again" (2:52)
+- 15: "Creep" (Alt. Version) (4:42)
+- 16: "Unspecial effects" (3:17)
