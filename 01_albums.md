@@ -181,3 +181,26 @@ disc 2:
 
 bonus track (Best Buy version):
 - 16: "Petting Zoo" (7:31)
+
+# W:/2016ALBUM/ (2016, duh)
+
+- 1: "4ware" (8:39)
+- 2: "2448" (6:24)
+- 3: "Cat Thruster" (5:36)
+- 4: "Deus Ex Machina" (6:31)
+- 5: "Glish" (2:10)
+- 6: "Imaginary Friends" (7:46)
+- 7: "Let Go (feat. Grabbitz)" (6:20)
+- 8: "No Problem" (6:59)
+- 9: "Snowcone" (5:15)
+- 10: "Three Pound Chicken Wing" (6:22)
+- 11: "Whelk Then" (5:39)
+
+bonus track (digital version):
+- 12: "Let Go (feat. Grabbitz)" (Extended Edit) (11:31)
+
+bonus track (CD):
+- 12: "Strobe" (No Mana Remix) (8:33)
+
+bonus track (vinyl):
+- 12: "Strobe" (Monstergetdown Remix) (6:54)
