@@ -21,7 +21,7 @@
 - Hybrid - "Finished Symphony" (deadmau5 Remix)
 - Kamisshake - "Dark Beat" (deadmau5 Remix)
 - Matt Rock - "What U Feel" (deadmau5 Remix)
-- Melleefresh vs deadmau5 - "Whispers" (deadmau5 Remix)
+- Melleefresh vs. deadmau5 - "Whispers" (deadmau5 Remix)
 - Noir - "Super Skunk" (deadmau5 Remix)
 - NuBreed - "NuFunk" (deadmau5 Remix)
 - One + One - "No Pressure" (deadmau5 Remix)
@@ -68,6 +68,9 @@ Eric Prydz - "Pjanoo" (deadmau5 WMC Edit)
 
 - Oingo Boingo - "Weird Science" (deadmau5 Remix)
 
-# 2014 (/2012)
+# 2014*
+
 - How To Destroy Angels - "Ice Age" (deadmau5 Remix)
 - Nine Inch Nails - "Survivalism" (deadmau5 Remix)
+
+> * was earlier released on his Soundcloud (2012)
