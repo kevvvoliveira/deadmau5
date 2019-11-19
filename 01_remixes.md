@@ -68,9 +68,7 @@ Eric Prydz - "Pjanoo" (deadmau5 WMC Edit)
 
 - Oingo Boingo - "Weird Science" (deadmau5 Remix)
 
-# 2014*
+# 2014
 
 - How To Destroy Angels - "Ice Age" (deadmau5 Remix)
 - Nine Inch Nails - "Survivalism" (deadmau5 Remix)
-
-> both were earlier released on his Soundcloud (2012)
