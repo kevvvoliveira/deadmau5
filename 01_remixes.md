@@ -56,8 +56,8 @@
 
 # 2010
 
-Pendulum - "Watercolour" (deadmau5 Remix)
-Eric Prydz - "Pjanoo" (deadmau5 WMC Edit)
+- Pendulum - "Watercolour" (deadmau5 Remix)
+- Eric Prydz - "Pjanoo" (deadmau5 WMC Edit)
 
 # 2011
 
