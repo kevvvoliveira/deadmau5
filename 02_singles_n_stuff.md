@@ -62,8 +62,9 @@ Songbird 224-0:
 - 1: "Catbread" (8:16)
 - 2: "Word Problems" (8:30)
 
-# Brazil (2nd Edit) / Cat On A Leash
+# Brazil (2nd Edit) / Cat On A Leash (2009)
 
+> vinyl only
 - 1: "Brazil (2nd Edit)" (5:23)
 - 2: "Cat On A Leash" (5:19)
 
