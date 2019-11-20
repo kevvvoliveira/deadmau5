@@ -1,6 +1,7 @@
 # Smirnoff Bonus Mini CD (2004)
 
 - "The Hive" (2:19)
+> this was Joel's first official deadmau5 release
 
 # Seven Years of Server Data (2011)
 
