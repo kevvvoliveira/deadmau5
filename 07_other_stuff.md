@@ -69,3 +69,14 @@
 
 > by BSOD, on "We Are Friends, Vol. 2"
 - "Super Breakfast" (5:15)
+
+# Tilt (2014)
+
+> by BSOD, given away for Suckscription members
+- 1: "Tilt" (6:33)
+
+# Sunspot (White Space Conflict) (2014)
+
+> by testpilot (Joel's techno alias)
+- 1: "Sunspot (White Space Conflict)" (7:45)
+- 2: "Sunspot (White Space Conflict)" (Pig&Dan Remix) (9:00)
