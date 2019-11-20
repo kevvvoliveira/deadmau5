@@ -20,7 +20,7 @@
 
 > full album by BSOD
 - 1: "Lollercoaster (Outright Hilarious Mix)" (6:07)
-- 1: "Lollercoaster (Kinda Funny Mix)" (6:18)
+- 1.5: "Lollercoaster (Kinda Funny Mix)" (6:18)
 - 2: "Echoes" (6:15)
 - 3: "Roflcopter" (5:26)
 - 4: "Oblique" (5:45)
