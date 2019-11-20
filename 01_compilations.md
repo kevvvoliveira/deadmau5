@@ -254,6 +254,7 @@ release version:
 
 # where's the drop? (2018)
 
+> with Gregory Reveret
 - 1: "imaginary friends (ov)" (1:43)
 - 2: "luxuria (ov)" (3:23)
 - 3: "coelacanth (ov)" (7:52)
