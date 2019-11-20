@@ -1,4 +1,4 @@
-> mostly non-album singles and "We Are Friends" stuff
+> mostly non-album singles
 
 # Faxing Berlin / Jaded (2007)
 
