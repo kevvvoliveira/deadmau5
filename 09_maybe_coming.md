@@ -16,3 +16,7 @@
 - testpilot (?) - ID ("Rio" / "Nosedive")
 - testpilot - ID
 - ARTBAT - "Planeta" (testpilot Remix)
+
+#
+
+- We Are Friends, Vol. 9 (mau5trap compilation)
