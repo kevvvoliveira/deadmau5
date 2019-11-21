@@ -130,3 +130,10 @@ Kaskade's V.4:
 
 - 1: "SATRN" (6:55)
 - 2: "SATRN" (Radio Edit) (3:09)
+
+# COASTED (2019)
+
+- 1: "COASTED" (6:57)
+- 2: "COASTED" (Radio Edit) (4:07)
+
+> the radio edit of "SATRN" and "COASTED" was not made by Joel, I recommend sticking with the original mix
