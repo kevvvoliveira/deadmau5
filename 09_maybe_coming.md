@@ -4,7 +4,6 @@
 
 - deadmau5 - "A Seed"
 - deadmau5 - "Ban Hammer"
-- deadmau5 - "Coasted"
 - deadmau5 - "Hit Save" (Vocal Mix)
 - deadmau5 - "Hyperlandia" (Vocal Mix)
 - deadmau5 - "Speed, Violence, Momentum"
