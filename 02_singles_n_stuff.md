@@ -136,4 +136,4 @@ Kaskade's V.4:
 - 1: "COASTED" (6:57)
 - 2: "COASTED" (Radio Edit) (4:07)
 
-> the radio edit of "SATRN" and "COASTED" was not made by Joel, I recommend sticking with the original mix
+> the radio edits of "SATRN" and "COASTED" were not made by Joel, I recommend sticking with the original mixes
