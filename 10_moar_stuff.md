@@ -149,7 +149,7 @@
 - "Superbia" (2:22) [2013-11-12]
 - "777" (13:00) [2013-11-21]
 - "Gula Redeux" (7:02) [2013-11-21]
-- "Survivalism"
+- "Survivalism" (2:42)
 
 # suckscription
 
