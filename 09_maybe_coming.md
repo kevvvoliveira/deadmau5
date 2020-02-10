@@ -6,7 +6,8 @@
 - deadmau5 - "Hit Save" (Vocal Mix) (feat. ???)
 - deadmau5 - "I See Fire" (feat. ???) **(unofficial title)**
 - deadmau5 - "Hyperlandia" (Vocal Mix) (feat. Mark Foster)
-- deadmau5 - "Hyperlandia" (feat. Kiesza)
+- <s> deadmau5 - "Hyperlandia" (feat. Kiesza) </s>
+- deadmau5 - "Bridged By A Lightwave" (feat. Kiesza)
 - deadmau5 - "Speed, Violence, Momentum" (DrDisRespect intro)
 - deadmau5 - "Where Phantoms Sleep (05?)"
 
