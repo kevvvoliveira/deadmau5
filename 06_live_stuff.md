@@ -1,3 +1,12 @@
+# MTV VMAs (2010)
+
+- Mike Posner - "Cooler than Me" (deadmau5 Remix)
+- Travie McCoy - "Billionaire" (deadmau5 Remix)
+- La Roux - "Bulletproof" (deadmau5 Remix)
+- Jason Derulo - "Ridin Solo" (deadmau5 Remix)
+- The Black Keys - "Tighten Up" (deadmau5 Remix)
+- Robyn - "Dancing on my Own" (deadmau5 Remix)
+
 # Live @ Earl's Court (2011)
 
 - 1: "Intro"
