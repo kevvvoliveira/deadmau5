@@ -2,8 +2,10 @@
 
 #
 
+- deadmau5 - ID ("Black Smoke") (feat. Lights)
+- deadmau5 - ID (Arcadia instrumental) (feat. Lights)
 - deadmau5 - "Ban Hammer"
-- deadmau5 - "Hit Save" (Vocal Mix) (feat. ???)
+- deadmau5 - "Hit Save"
 - deadmau5 - "I See Fire" (feat. ???)
 - deadmau5 - "Hyperlandia" (Vocal Mix) (feat. Mark Foster)
 - <s> deadmau5 - "Hyperlandia" (feat. Kiesza) </s>
