@@ -11,7 +11,7 @@
 - <s> deadmau5 - "Hyperlandia" (feat. Kiesza) </s>
 - deadmau5 - "Bridged By A Lightwave" ("Dimensions") (feat. Kiesza)
 - deadmau5 - "Speed, Violence, Momentum" (DrDisRespect intro)
-- deadmau5 - "Where Phantoms Sleep (05?)"
+- deadmau5 - "Where Phantoms Sleep"
 
 #
 
