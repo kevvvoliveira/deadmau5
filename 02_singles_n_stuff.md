@@ -148,3 +148,8 @@ Kaskade's V.4:
 
 > from "We Are Friends, Vol. 9"
 - "ASEED" (5:44)
+
+# Pomegranate (2020)
+
+> single by deadmau5 & The Neptunes (Pharrell Williams and Chad Hugo)
+- "Pomegranate" (3:27)
