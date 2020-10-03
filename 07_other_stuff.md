@@ -81,3 +81,11 @@
 > by testpilot (Joel's techno alias)
 - 1: "Sunspot (White Space Conflict)" (7:45)
 - 2: "Sunspot (White Space Conflict)" (Pig&Dan Remix) (9:00)
+
+# No Way, Get Real (2020)
+
+> EP by BSOD
+- 1: "Afterburner" (4:41)
+- 2: "Allpassing Lane" (4:41)
+- 3: "Fives" (5:18)
+- 4: "Pitches Love Me" (4:52)
