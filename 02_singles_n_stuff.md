@@ -153,3 +153,8 @@ Kaskade's V.4:
 
 > single by deadmau5 & The Neptunes (Pharrell Williams and Chad Hugo)
 - "Pomegranate" (3:27)
+
+# Bridged by a Lightwave (2020)
+
+> single by deadmau5 & Kiesza
+- "Bridged by a Lightwave"
