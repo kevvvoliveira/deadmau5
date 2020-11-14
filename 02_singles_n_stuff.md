@@ -157,4 +157,6 @@ Kaskade's V.4:
 # Bridged by a Lightwave (2020)
 
 > single by deadmau5 & Kiesza
-- "Bridged by a Lightwave"
+- 1: "Bridged by a Lightwave" (Radio Edit) (2:52)
+- 2: "Bridged by a Lightwave" (9:22:
+- 3: "Bridged by a Lightwave" (Alternative Mix) (5:52)
