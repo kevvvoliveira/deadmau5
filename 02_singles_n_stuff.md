@@ -160,3 +160,9 @@ Kaskade's V.4:
 - 1: "Bridged by a Lightwave" (Radio Edit) (2:52)
 - 2: "Bridged by a Lightwave" (9:22)
 - 3: "Bridged by a Lightwave" (Alternative Mix) (5:52)
+
+# Channel 43 (2021)
+
+> single by deadmau5 + Wolfgang Gartner
+- 1: "Channel 43" (Radio Edit) (3:04)
+- 2: "Channel 43" (Extended Mix) (8:02)
