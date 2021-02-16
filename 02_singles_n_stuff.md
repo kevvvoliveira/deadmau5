@@ -166,3 +166,8 @@ Kaskade's V.4:
 > single by deadmau5 + Wolfgang Gartner
 - 1: "Channel 43" (Radio Edit) (3:04)
 - 2: "Channel 43" (Extended Mix) (8:02)
+
+# Arguru 2k19 (2021)
+
+> from "We Are Friends, Vol. 10"
+- 1: "Arguru 2k19" (7:15)
